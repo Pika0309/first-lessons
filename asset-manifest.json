@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first-lessons/static/css/main.ad31fb2b.css",
+    "main.js": "/first-lessons/static/js/main.e11b2d3f.js",
+    "static/js/787.66cb4309.chunk.js": "/first-lessons/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/first-lessons/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/first-lessons/index.html",
+    "main.ad31fb2b.css.map": "/first-lessons/static/css/main.ad31fb2b.css.map",
+    "main.e11b2d3f.js.map": "/first-lessons/static/js/main.e11b2d3f.js.map",
+    "787.66cb4309.chunk.js.map": "/first-lessons/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad31fb2b.css",
+    "static/js/main.e11b2d3f.js"
+  ]
+}
