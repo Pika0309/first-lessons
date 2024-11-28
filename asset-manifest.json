@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/first-lessons/static/css/main.0fd380de.css",
-    "main.js": "/first-lessons/static/js/main.87d7d982.js",
+    "main.css": "/first-lessons/static/css/main.83de781d.css",
+    "main.js": "/first-lessons/static/js/main.aa254ed1.js",
     "static/js/787.66cb4309.chunk.js": "/first-lessons/static/js/787.66cb4309.chunk.js",
+    "static/media/checked.svg": "/first-lessons/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "index.html": "/first-lessons/index.html",
-    "main.0fd380de.css.map": "/first-lessons/static/css/main.0fd380de.css.map",
-    "main.87d7d982.js.map": "/first-lessons/static/js/main.87d7d982.js.map",
+    "main.83de781d.css.map": "/first-lessons/static/css/main.83de781d.css.map",
+    "main.aa254ed1.js.map": "/first-lessons/static/js/main.aa254ed1.js.map",
     "787.66cb4309.chunk.js.map": "/first-lessons/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fd380de.css",
-    "static/js/main.87d7d982.js"
+    "static/css/main.83de781d.css",
+    "static/js/main.aa254ed1.js"
   ]
 }
